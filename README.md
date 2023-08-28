@@ -1,2 +1,2 @@
-# OS
-OS that is still to be made/named
+# Plain OS
+My little OS project
